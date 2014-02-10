@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Threes-AI
 =========
 
@@ -21,4 +20,3 @@ Where:
 
 `Next block` can be `1`, `2` or `3`
 
->>>>>>> Initial commit
