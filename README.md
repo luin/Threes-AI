@@ -1,9 +1,4 @@
-Threes-AI
-=========
-
-A Threes! AI
-=======
-# An amazing Threes AI
+# An amazing Threes! AI
 
 Threes is tiny puzzle that grows on you. [Download Threes now!](https://itunes.apple.com/us/app/threes!/id779157948)
 
