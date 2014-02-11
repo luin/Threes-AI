@@ -9,6 +9,11 @@ class Board
           if anotherBoard then anotherBoard.board[y][x]
           else 0
 
+  isOver: ->
+    (JSON.stringify @move 'up') is (JSON.stringify @move 'down') and
+    (JSON.stringify @move 'up') is (JSON.stringify @move 'left') and
+    (JSON.stringify @move 'up') is (JSON.stringify @move 'right')
+
   move: (direction, nextBlock) ->
     newboard = new Board @
     b = newboard.board
