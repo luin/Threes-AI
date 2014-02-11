@@ -1,7 +1,7 @@
 Board = require './Board'
 { exec } = require 'child_process'
 
-ai = require './ai/miser'
+ai = require './ai/average'
 
 
 readline = require 'readline'
